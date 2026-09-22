@@ -82,6 +82,6 @@ str (my_data_frame)
 
 
 
-#Escaping setwd() hell!check the save someyhing
+#Escaping setwd() hell!check the save
 
 #Workshop3  Github
